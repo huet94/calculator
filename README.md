@@ -1,1 +1,1 @@
-Source.c --> main
+Source.c    -->    main
